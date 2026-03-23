@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # trump-analyst
 
 A Claude skill for analyzing and predicting Donald Trump's behavior through the lens of negotiation psychology and behavioral pattern recognition.
@@ -57,3 +58,7 @@ To customize the skill:
 ## License
 
 MIT — use it however you want.
+=======
+# trump-analyst-github
+claude-skills-to-predict-donald-trump
+>>>>>>> e42cedf17868659da5ddc42b1d37d7de7a934aea
