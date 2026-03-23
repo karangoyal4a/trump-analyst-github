@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Workspace/eval artifacts
+*-workspace/
+evals/
+__pycache__/
+*.pyc
